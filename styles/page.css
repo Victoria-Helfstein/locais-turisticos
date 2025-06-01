@@ -19,4 +19,19 @@ text-align: center;}
     background: var(--border-primary);
     margin-block: 4rem;
 }
+.amantes-historias{
+
+    margin-bottom: 6.4rem;
+}
+.destino_1,
+.destino_2,
+.destino_3{
+
+    img{
+        height: 35rem;
+        object-fit: cover;
+        margin-bottom: 2rem;
+        border-radius: 2.8rem;
+    }
+}
 }
